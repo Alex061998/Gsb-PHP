@@ -1,0 +1,44 @@
+body {
+       background: #fff;
+       color: #000;
+      
+     }
+
+     .logo{
+     	float: left;
+     } 
+     
+     .titre{
+     	color: #08B3b8;
+     	
+     }
+
+     #acceuil{
+        text-align: center;
+        color: #4682B4;
+     }
+     
+form {
+     background-color:#4682B4;
+     padding:50px;
+     width:800px;
+     color: white;
+     text-shadow: 0 0 8px white;
+     margin-left: 180px;
+     margin-top: 50px;
+ }
+		.white {
+			color: #FFFFFF
+		}
+			
+		.blue {
+			color: #4682B4;
+		}
+
+        .table{
+            color: black;
+            border: 2px solid white;
+        }
+
+     
+
